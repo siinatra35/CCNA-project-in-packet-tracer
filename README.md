@@ -38,7 +38,7 @@ Router 1 is configured with EIGRP protocol
 and router 2 is configured wit OSPF protocol and a NAT protocol 
 remapping its getaway and preventing it to connect with the faculty and staff server
 
-![sleepy](https://i.imgur.com/eY8y4im.png)
+![sleepy](https://i.imgur.com/1UZ3wA9.png)
 
 
 
